@@ -28,7 +28,7 @@ display: inline;
     border: 2px solid black;
     float: left;
     width: 29%;
-    height: 19em;
+    min-height: 675px;
     font-size: 1.40em;
 }
 
@@ -37,6 +37,7 @@ display: inline;
     border: 2px solid black;
     float: right;
     width: 69%;
+    min-height: 675px;
 }
 
 h2{
@@ -48,10 +49,10 @@ h2{
 }
 
 body {
-    margin-top: 10em;
-    margin-right: 30em;
-    margin-bottom: 20em;
-    margin-left: 30em;
+    margin-top: 5%;
+    margin-right: 15%;
+    margin-bottom: 5%;
+    margin-left: 15%;
 }
 
 .button {
