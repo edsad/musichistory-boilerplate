@@ -1,0 +1,63 @@
+header {
+    background-color:#FFB4B0;
+    text-decoration:none;
+    border: 2px solid black;
+    font-size: 1.2em;
+}
+
+header{
+    width: 100%;
+    padding: 3px;
+    margin-bottom: 6px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+
+}
+#actions *{
+text-decoration: none;
+list-style:none;
+display: inline;
+}
+
+
+#left-side{
+    background-color: #4DD7FA;
+    border: 2px solid black;
+    float: left;
+    width: 29%;
+    height: 19em;
+    font-size: 1.40em;
+}
+
+#right-side{
+    background-color: #FEFAC0;
+    border: 2px solid black;
+    float: right;
+    width: 69%;
+}
+
+h2{
+    color: #785616;
+}
+
+#song-length {
+
+}
+
+body {
+    margin-top: 10em;
+    margin-right: 30em;
+    margin-bottom: 20em;
+    margin-left: 30em;
+}
+
+.button {
+    width: 125px;
+    height: 35px;
+    font-size: 1em;
+    border-radius: 10px;
+    border: solid black .1px;
+}
