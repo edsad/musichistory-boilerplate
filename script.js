@@ -1,7 +1,7 @@
 var songs = [];
 
-songs[songs.length] = "Abc > by CDE on the album GFD";
-songs[songs.length] = "JKL > by One on the album Swon";
+songs[songs.length] = "Crazy Train > by Ozzy Osbourne on the album Blizzard of Ozz";
+songs[songs.length] = "How's it Going to Be > by Third Eye Blind on the album Third Eye Blind";
 songs[songs.length] = "Legs > by Z*ZTop on the album Eliminator";
 songs[songs.length] = "The Logical Song > by Supertr@amp on the album Breakfast in America";
 songs[songs.length] = "Another Brick in the Wall > by Pink Floyd on the album The Wall";

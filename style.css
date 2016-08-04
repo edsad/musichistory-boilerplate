@@ -6,7 +6,7 @@ header {
 }
 
 header{
-    width: 100%;
+    width: 99%;
     padding: 3px;
     margin-bottom: 6px;
 }
@@ -65,7 +65,23 @@ body {
     display: block;
 }
 
+#ckbx_colmn_left {
+    display: block;
+    float: left;
+}
+
+#ckbx_colmn_right {
+    display: block;
+}
+
 .button-div {
 /*background-color: chartreuse*/;
 
+}
+
+p {
+    text-align: left;
+    margin-top: 30px;
+    margin-bottom: 4px;
+    padding-left: 5px;
 }
